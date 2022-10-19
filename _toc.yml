@@ -1,7 +1,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: content/background/00_general
+- file: 00_general
 #- file: content/background/03_basic_hydrogeology
 #- file: content/flow/12_subsurface_structure
 #- file: content/background/01_python
